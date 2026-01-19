@@ -1,2 +1,2 @@
-# phyton-basics
-My phyton learning projects
+# python-basics
+My python learning projects
